@@ -8,7 +8,7 @@
 #include "C1A1E1_main.hpp"
 #include <iostream>
 
-int main(void) {
+int main() {
     int var;
     std::cout << "Please enter any"
     "decimal integer numeric value\n";
