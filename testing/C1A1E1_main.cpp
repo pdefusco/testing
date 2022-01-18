@@ -10,9 +10,12 @@
 
 int main(void) {
     int var;
-    std::cout << "Please enter any decimal integer numeric value\n";
+    std::cout << "Please enter any"
+    "decimal integer numeric value\n";
     std::cin >> var;
-    std::cout << std::dec << var << " decimal = " << std::oct << var
-    << " octal = " << std::hex << var << " hexadeximal\n";
+    std::cout << std::dec << var
+    << " decimal = " << std::oct << var
+    << " octal = " << std::hex << var
+    << " hexadecimal\n";
     return 0;
 }
