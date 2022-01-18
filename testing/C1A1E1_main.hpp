@@ -8,6 +8,6 @@
 #ifndef C1A1E1_main_hpp
 #define C1A1E1_main_hpp
 
-#include <stdio.h>
+#include <cstdio>
 
 #endif /* C1A1E1_main_hpp */
